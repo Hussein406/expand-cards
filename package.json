@@ -1,0 +1,23 @@
+{
+  "name": "expand-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussein406/expand-cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussein406/expand-cards/issues"
+  },
+  "homepage": "https://github.com/Hussein406/expand-cards#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
